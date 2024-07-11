@@ -7,7 +7,7 @@ const second = document.querySelector(".second");
 const again = document.querySelector(".again");
 const totalTime = document.querySelector("#totalTime");
 
-var audio = new Audio('assets/aria-math.mp3');
+var audio = new Audio('https://github.com/AlakbarovaLeyli/MINECRAFT_MATCH/blob/main/assets/aria-math.mp3');
 audio.volume=0.2;
 let hasFlippedCard = false;
 let firstCard, secondCard;
